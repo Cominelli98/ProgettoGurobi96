@@ -14,14 +14,17 @@ public class Processo {
 	}
 
 	public int getA_processori() {
+		
 		return a_processori;
 	}
 
 	public int getB_GBM() {
+		
 		return b_GBM;
 	}
 
 	public int getQ_profitto() {
+		
 		return q_profitto;
 	}
 }
